@@ -29,7 +29,6 @@ ____
 
 > Languages 
 
-``` <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zexyzx&show_icons=true&locale=en&layout=compact" alt="zexyzx" /></p> ```
 <p><img align="center" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> </p>
 
 > Tools
