@@ -53,10 +53,6 @@ ____
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zexyzx&" alt="zexyzx" /></p>
 
-<br clear="both">
-<p>
-<img src="https://raw.githubusercontent.com/zexyzx/zexyzx/output/snake.svg" alt="Snake animation" />
-</p>
 </details>
 
 ____
