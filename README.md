@@ -62,7 +62,14 @@ ____
 > Github Statistics
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zexyzx&" alt="zexyzx" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/zexyzx/zexyzx/output/snake.svg" alt="Snake animation" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexyzx/zexyzx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zexyzx/zexyzx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zexyzx/zexyzx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 </details>
 
