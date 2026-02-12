@@ -28,6 +28,7 @@ ____
 <summary>Information</summary>
 
 > Skills
+
  <p align="center">
    <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
