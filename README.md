@@ -27,10 +27,18 @@ ____
 <details>
 <summary>Information</summary>
 
-> Languages 
-
-<p align="center"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> </p>
-
+> Skills
+ <p align="center">
+   <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+</div>
+ </p>
 > Tools
 
 <p align="center">
@@ -47,16 +55,7 @@ ____
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=heroku" height="45" alt="heroku logo"  />
 </div>
-
-###
 </p>
-
-> Skills
-
-<p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</p> 
 
 > Github Statistics
 
