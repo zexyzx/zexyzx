@@ -51,7 +51,7 @@ ____
 
 > Github Statistics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zexyzx&" alt="zexyzx" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zexyzx&" alt="zexyzx" /></p>
 </details>
 
 ____
