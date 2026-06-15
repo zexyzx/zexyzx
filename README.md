@@ -13,7 +13,7 @@ async function zenAjg() {
           region: "Pasuruan - Jatim"
         },
         social: {
-          instagram: "https://instagram.com/jenalll.120fps",
+          instagram: "https://instagram.com/j0.z3n",
           whatsapp: "https://wa.me/628123098xxxx"
         }
       }
